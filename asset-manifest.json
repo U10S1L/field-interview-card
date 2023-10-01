@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/field-interview-card/static/css/main.c896e723.css",
+    "main.js": "/field-interview-card/static/js/main.9ecdd85f.js",
+    "static/js/787.a62eecae.chunk.js": "/field-interview-card/static/js/787.a62eecae.chunk.js",
+    "index.html": "/field-interview-card/index.html",
+    "main.c896e723.css.map": "/field-interview-card/static/css/main.c896e723.css.map",
+    "main.9ecdd85f.js.map": "/field-interview-card/static/js/main.9ecdd85f.js.map",
+    "787.a62eecae.chunk.js.map": "/field-interview-card/static/js/787.a62eecae.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c896e723.css",
+    "static/js/main.9ecdd85f.js"
+  ]
+}
