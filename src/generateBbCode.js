@@ -1,4 +1,6 @@
-export default data => `[font=Arial][center]LOS SANTOS POLICE DEPARTMENT
+function generateBbCode(data) {
+
+    return `[font=Arial][center]LOS SANTOS POLICE DEPARTMENT
 [size=120][color=black][b]FIELD INTERVIEW CARD (FRONT)[/b][/font][/color][/size][/center]
 
 [table2=1,black,transparent,Arial]
@@ -340,3 +342,6 @@ ${data.supvInit}
 [/tr]
 [/table2]
 `;
+}
+
+export default generateBbCode;
